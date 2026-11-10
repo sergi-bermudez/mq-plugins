@@ -5,24 +5,24 @@
   {
    "id": "com.musiquence.paint",
    "name": "MQ Paint",
-   "version": "1.5.1",
+   "version": "1.5.2",
    "description": "Colour a drawing made from an image or from geometric shapes (or a blank sheet); print it",
    "icon": "🎨",
    "author": "Musiquence",
-   "file": "plugins/Paint-1.5.1.zip",
-   "size": 31953,
-   "sha256": "9dffdd44a184638946efdf1e24e793dd0701d96b3ac061d9228adf77d5db61fd"
+   "file": "plugins/Paint-1.5.2.zip",
+   "size": 31932,
+   "sha256": "866596405a56c1fe4698e68ae45b29e26497b14b39a5702eaae508a6c5c3019c"
   },
   {
    "id": "com.musiquence.explorer3d",
    "name": "MQ 3D Blocks",
-   "version": "2.13.0",
+   "version": "2.13.1",
    "description": "First-person 3D level made in a grid editor: collect objects, answer questions, keys and doors, hints, reach the exit",
    "icon": "🏰",
    "author": "Musiquence",
-   "file": "plugins/Explorer3D-2.13.0.zip",
-   "size": 305970,
-   "sha256": "f217f9b8b94a4c4d4cd27d0beeb29b3d16e20444a4fda001ca31370f0145a0dd"
+   "file": "plugins/Explorer3D-2.13.1.zip",
+   "size": 305931,
+   "sha256": "c8d331b0a6abfb8676e2b36e60fb31ee349d4b7975a02fe61895dd68d82ed25b"
   },
   {
    "id": "com.musiquence.videoquiz",
