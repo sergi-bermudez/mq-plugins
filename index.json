@@ -5,13 +5,13 @@
   {
    "id": "com.musiquence.paint",
    "name": "MQ Paint",
-   "version": "1.5.0",
+   "version": "1.5.1",
    "description": "Colour a drawing made from an image or from geometric shapes (or a blank sheet); print it",
    "icon": "🎨",
    "author": "Musiquence",
-   "file": "plugins/Paint-1.5.0.zip",
-   "size": 31970,
-   "sha256": "b91d7311a1780c5fa6514b062b9d4451e3d43bd028a16655066fca059348f3b6"
+   "file": "plugins/Paint-1.5.1.zip",
+   "size": 31953,
+   "sha256": "9dffdd44a184638946efdf1e24e793dd0701d96b3ac061d9228adf77d5db61fd"
   },
   {
    "id": "com.musiquence.explorer3d",
