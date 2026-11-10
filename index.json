@@ -16,13 +16,13 @@
   {
    "id": "com.musiquence.explorer3d",
    "name": "MQ 3D Blocks",
-   "version": "2.13.1",
+   "version": "2.13.2",
    "description": "First-person 3D level made in a grid editor: collect objects, answer questions, keys and doors, hints, reach the exit",
    "icon": "🏰",
    "author": "Musiquence",
-   "file": "plugins/Explorer3D-2.13.1.zip",
-   "size": 305931,
-   "sha256": "c8d331b0a6abfb8676e2b36e60fb31ee349d4b7975a02fe61895dd68d82ed25b"
+   "file": "plugins/Explorer3D-2.13.2.zip",
+   "size": 306105,
+   "sha256": "6269be58ffae4f562a7dea2dcc8cd9591127888c3a2aa54b292ce7b56fbfeb39"
   },
   {
    "id": "com.musiquence.videoquiz",
